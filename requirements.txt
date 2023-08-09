@@ -1,0 +1,22 @@
+# Standard Libraries and Utilities
+numpy==1.23.0
+
+urllib3==1.25.8
+
+# RDKit - a cheminformatics library
+rdkit-pypi==2022.9.5
+
+# PyTorch and its Geometric Extension
+torch==2.0.1
+torch-geometric==2.3.1
+
+# Forked version of egnn-pytorch
+git+https://github.com/tomova/egnn-pytorch.git
+
+# Other deep learning and geometric libraries
+e3nn==0.5.1
+se3-transformer-pytorch==0.9.0
+
+# Scikit-learn for metrics and model utilities
+scikit-learn==1.3.0
+
